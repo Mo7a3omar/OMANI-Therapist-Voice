@@ -1,7 +1,5 @@
 # OMANI-Therapist-Voice: AI Mental Health Assistant
 
-[![Python](https://img.ttps://img.shields.io/badge/Stream/img..shields.io/badge/Status-Research-based mental health chatbot designed specifically for Omani Arabic speakers, integrating cultural sensitivity with AI-powered therapeutic support.
-
 ## 🚨 Important Disclaimer
 
 **⚠️ This project is a research prototype and is NOT intended for clinical use.**
